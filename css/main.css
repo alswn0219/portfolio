@@ -34,7 +34,7 @@ header div h1 a {
 .main_visual {
     width: 100%;
     height: 800px;
-    background: url('../images/jeffery-ho-TIN_Lh9-Y7g-unsplash.jpg') center center / cover no-repeat;
+    background: url('../images/pexels-solodsha-7664103.jpg') center center / cover no-repeat;
     background-attachment: fixed;
     color: #fff;
     display: flex;
@@ -111,7 +111,7 @@ header div h1 a {
     padding: 0 25px;
 }
 .best .best_box .info ul li:first-of-type {
-    background-color: #333;
+    background-color: #333; 
 }
 .best .best_box .info ul li:first-of-type a {
     color: #fff;
